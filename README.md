@@ -27,7 +27,7 @@ Follow these steps to set up and run the application locally:
 
 ### 1. Clone the Repository:
 ```js
-git clone https://github.com/your-username/GreenStitch-Assignment.git
+git clone https://github.com/lktyagi753/GreenStitch-Assignment.git
 cd GreenStitch-Assignment
 ```
 
